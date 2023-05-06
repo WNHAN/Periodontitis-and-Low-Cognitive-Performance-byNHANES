@@ -13,10 +13,10 @@ To study the association between Self-Reported Periodontal Diseases(SRPD) and lo
                                      animal fluency test(AFT), and digit symbol substitution test(DSST).
                                      4)Subjective Memory Questions
 # Statistical Analysis
-1.Summary of univariate distribution of all variables
-2.Bivariate analysis
-3.Multi-variate analysis ( 𝛼 = 0.05)
-4.Sensitivy Analysis
-4.Software: R-Studio version 4.2.0
+1.Summary of univariate distribution of all variables.
+2.Bivariate analysis.
+3.Multi-variate analysis ( 𝛼 = 0.05).
+4.Sensitivy Analysis.
+5.Software: R-Studio version 4.2.0
 
                                 
